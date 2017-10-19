@@ -1,0 +1,8 @@
+echo "--------------------------------------------------------------"
+echo "Activating pybot: $CONDA_PREFIX"
+export _PYBOT_PYTHONPATH_BACKUP=$PYTHONPATH
+export PYTHONPATH=$PYTHONPATH:$CONDA_PREFIX/lib:$HOME/pybot/pybot
+
+echo "Exported variables: "
+echo "PYTHONPATH: $PYTHONPATH"
+echo "--------------------------------------------------------------"

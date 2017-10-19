@@ -1,0 +1,8 @@
+echo "--------------------------------------------------------------"
+echo "Deactivating pybot: $CONDA_PREFIX"
+export PYTHONPATH=$_PYBOT_PYTHONPATH_BACKUP
+unset _PYBOT_PYTHONPATH_BACKUP
+
+echo "Unset variables: "
+echo "_PYBOT_PYTHONPATH_BACKUP"
+echo "--------------------------------------------------------------"
