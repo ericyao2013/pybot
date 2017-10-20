@@ -1,0 +1,36 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+ca-certificates=2017.08.26=h1d4fec5_0
+certifi=2017.7.27.1=py36h8b7b77e_0
+decorator=4.1.2=py36hd076ac8_0
+intel-openmp=2018.0.0=h15fc484_7
+ipython=6.1.0=py36hc72a948_1
+ipython_genutils=0.2.0=py36hb52b0d5_0
+jedi=0.10.2=py36h552def0_0
+libedit=3.1=heed3624_0
+libffi=3.2.1=h4deb6c0_3
+libgcc-ng=7.2.0=h7cc24e2_2
+libstdcxx-ng=7.2.0=h7a57d05_2
+mkl=2018.0.0=hb491cac_4
+ncurses=6.0=h06874d7_1
+numpy=1.13.3=py36ha12f23b_0
+openssl=1.0.2l=h077ae2c_5
+pexpect=4.2.1=py36h3b9d41b_0
+pickleshare=0.7.4=py36h63277f8_0
+pip=9.0.1=py36h8ec8b28_3
+prompt_toolkit=1.0.15=py36h17d85b1_0
+ptyprocess=0.5.2=py36h69acd42_0
+pygments=2.2.0=py36h0d3125c_0
+python=3.6.3=hc9025b9_1
+readline=7.0=hac23ff0_3
+setuptools=36.5.0=py36he42e2e1_0
+simplegeneric=0.8.1=py36h2cb9092_0
+six=1.10.0=py36hcac75e4_1
+sqlite=3.20.1=h6d8b0f3_1
+tk=8.6.7=h5979e9b_1
+traitlets=4.3.2=py36h674d592_0
+wcwidth=0.1.7=py36hdf4376a_0
+wheel=0.29.0=py36he7f4e38_1
+xz=5.2.3=h2bcbf08_1
+zlib=1.2.11=hfbfcf68_1
